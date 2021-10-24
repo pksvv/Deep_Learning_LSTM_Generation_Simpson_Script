@@ -7,7 +7,7 @@ html5lib==0.999999999
 ipykernel==4.5.2
 ipython==5.3.0
 ipython-genutils==0.2.0
-tensorflow>=2.5.1
+tensorflow>=2.4.3
 ipywidgets==6.0.0
 Jinja2>=2.11.3
 jsonschema==2.6.0
