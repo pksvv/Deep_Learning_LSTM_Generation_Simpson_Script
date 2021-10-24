@@ -1,4 +1,6 @@
 # dnld-tv-script-generation
-Using Recurrent Neural Network and LSTM to generate the TV Script from Simpsons Episode..
+
+
+*Natural Language Generation* using Recurrent Neural Network and LSTM to generate the TV Script from Simpsons Episode dataset.
 
 
